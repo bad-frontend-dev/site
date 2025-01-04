@@ -6,4 +6,3 @@ document.querySelector("html").addEventListener("mousemove", (event) => {
   body.style.backgroundPositionX = x.toString() + "px";
   body.style.backgroundPositionY = y.toString() + "px";
 });
-//
